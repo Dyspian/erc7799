@@ -1,8 +1,6 @@
 # ERC-7799: Self-Evolving Smart Contract Standard 🌀
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![GitHub Issues](https://img.shields.io/github/issues/erc7799/core)](https://github.com/erc7799/core/issues)
-[![Discord](https://img.shields.io/discord/1073457327244349460)](https://discord.gg/erc7799)
 
 **A revolutionary Ethereum standard enabling modular, upgradeable smart contracts with persistent state**
 
