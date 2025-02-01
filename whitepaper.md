@@ -1,6 +1,6 @@
 # **ERC-7799: The Self-Evolving Smart Contract Standard**  
 **A White Paper by Jimmy Salau**  
-**Version 1.0.0 | October 2025**  
+**Version 1.0.0 | February 1 2025**  
 
 ---
 
