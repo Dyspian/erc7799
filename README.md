@@ -58,24 +58,6 @@ contract ERC7799Core {
 
 ---
 
-## 🚀 Getting Started
-
-### Prerequisites
-- Node.js v18+
-- npm v9+
-- Hardhat v2.12+
-
-### Basic Deployment
-```javascript
-// Deployment script
-async function deploy() {
-  const Core = await ethers.getContractFactory("ERC7799Core");
-  const core = await Core.deploy(governanceAddress);
-  await core.deployed();
-  console.log("Core deployed to:", core.address);
-}
-```
-
 ---
 
 ## 🏗 Architecture
@@ -92,30 +74,6 @@ graph TD
 
 ---
 
-## 💡 Usage Examples
-
-### Create a Module
-```solidity
-contract DynamicTaxModule {
-    using SafeMath for uint256;
-    
-    function calculateTax(uint256 amount) external pure returns (uint256) {
-        return amount.mul(5).div(100); // 5% tax
-    }
-}
-```
-
-### Upgrade Module
-```javascript
-// Governance proposal example
-async function upgradeTaxModule() {
-  const newTaxModule = await TaxModuleV2.deploy();
-  await core.connect(governance).updateModule("0xabcd1234", newTaxModule.address);
-}
-```
-
----
-
 ## 🔒 Security
 
 ### Best Practices
@@ -125,22 +83,8 @@ async function upgradeTaxModule() {
 - Conduct formal verification using Certora
 
 ### Audit Status
-- OpenZeppelin Audit (Q1 2024)
-- Trail of Bits Review (Q2 2024)
-
----
-
-## 🤝 Contributing
-
-We welcome contributions! Please follow these steps:
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-See our [Contribution Guidelines](CONTRIBUTING.md) for details.
+- OpenZeppelin Audit (Q4 2025)
+- Trail of Bits Review (?)
 
 ---
 
