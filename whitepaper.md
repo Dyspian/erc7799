@@ -128,14 +128,14 @@ ERC-7799 redefines smart contract flexibility by marrying Ethereum’s security 
 ---
 
 ## **Appendices**  
-- **A. Code Repository**: [https://github.com/erc7799](https://github.com/Dyspian/erc7799/blob/main/Technical-Deep-Dive.md) 
+- **A. Code Repository**: [https://github.com/Dyspian/erc7799/](https://github.com/Dyspian/erc7799/blob/main/Technical-Deep-Dive.md) 
 - **B. Audit Reports**: No date available yet 
-- **C. Governance Forum**: [forum.erc7799.org](https://forum.erc7799.org)  
+- **C. Governance Forum**: [No date available yet](https://forum.erc7799.org)  
 
 ---
 
 **Authored by Jimmy Salau**  
-**Contact**: jimmy@erc7799.org  
+**Contact**: No date available yet   
 **Follow**: [@salaujimmy](https://instagram.com/salaujimmy)  
 
 *"Innovation is evolution in action."* 🚀
