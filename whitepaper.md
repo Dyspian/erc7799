@@ -197,9 +197,9 @@ C_{op} = \begin{cases}
 ### 7.1 Development Timeline  
 ```mermaid
 graph LR
-    A[2023 Q4] --> B[Testnet Launch]
-    B --> C[2024 Q2 Mainnet]
-    C --> D[2025 Q1 Cross-Chain]
+    A[2025 Q3] --> B[Testnet Launch]
+    B --> C[2026 Q2 Mainnet]
+    C --> D[2026 Q1 Cross-Chain]
     D --> E[2026+ AI Modules]
 ```
 
